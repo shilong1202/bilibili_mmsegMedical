@@ -1,0 +1,11 @@
+python版本：3.7
+
+torch版本：1.13.1+cu117
+
+mmcv                          2.0.0
+mmdet                         3.0.0
+mmengine                      0.10.5
+mmpretrain                    1.0.0rc7
+mmsegmentation                1.2.2
+
+nvidia-smi: 12.3
